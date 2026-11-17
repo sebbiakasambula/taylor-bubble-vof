@@ -4,7 +4,7 @@
   "creators": [
     {
       "name": "Kasambula, Sebbi Adam",
-      "affiliation": "Independent researcher, Linköping, Sweden"
+      "affiliation": "Linköping University"
     }
   ],
   "description": "Scripts that write and run the OpenFOAM cases, the modified interFoam solver, the analysis scripts, the processed results and the source of the paper."
