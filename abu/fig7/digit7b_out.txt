@@ -1,0 +1,29 @@
+spines x 76 572 y 13 383
+x tick px [ 86. 163. 240. 316. 393. 470. 547.]
+y tick px [ 56.  99. 142. 186. 229. 272. 316. 359.]
+tick values x [  0  50 100 150 200 250 300] y [0.15 0.14 0.13 0.12 0.11 0.1  0.09 0.08]
+x fit resid [-0.0461  0.0933  0.2327 -0.2791 -0.1397 -0.0003  0.1391] y fit resid [-5.8e-05  1.6e-05  9.1e-05 -6.6e-05  8.0e-06  8.3e-05 -7.4e-05  0.0e+00]
+Nf 40 markers: Eo 20.1 d 0.1269 (71 px) Eo 29.9 d 0.1356 (69 px) Eo 40.3 d 0.1398 (69 px) Eo 50.1 d 0.1419 (70 px) Eo 59.9 d 0.1433 (70 px) Eo 100.2 d 0.1458 (71 px) Eo 140.0 d 0.1466 (74 px) Eo 162.1 d 0.0934 (69 px) Eo 180.3 d 0.1472 (69 px) Eo 220.0 d 0.1474 (69 px) Eo 259.8 d 0.1476 (69 px) Eo 300.1 d 0.1479 (69 px)
+   line at Eo 80: read 0.1446, Brown with Viana 0.1445, diff +0.0001
+   line at Eo 120: read 0.1454, Brown with Viana 0.1453, diff +0.0001
+   line at Eo 200: read 0.1458, Brown with Viana 0.1457, diff +0.0001
+Nf 60 markers: Eo 20.1 d 0.1202 (71 px) Eo 29.9 d 0.1276 (69 px) Eo 40.4 d 0.1308 (70 px) Eo 50.1 d 0.1324 (70 px) Eo 59.9 d 0.1333 (69 px) Eo 100.2 d 0.1351 (71 px) Eo 140.0 d 0.1357 (78 px) Eo 162.1 d 0.0885 (69 px) Eo 180.3 d 0.1360 (74 px) Eo 220.0 d 0.1362 (79 px) Eo 259.8 d 0.1362 (79 px) Eo 300.1 d 0.1366 (69 px)
+   line at Eo 80: read 0.1342, Brown with Viana 0.1341, diff +0.0001
+   line at Eo 120: read 0.1347, Brown with Viana 0.1346, diff +0.0001
+   line at Eo 200: read 0.1349, Brown with Viana 0.1349, diff +0.0001
+Nf 80 markers: Eo 20.0 d 0.1142 (72 px) Eo 29.9 d 0.1204 (69 px) Eo 40.4 d 0.1232 (70 px) Eo 50.1 d 0.1246 (69 px) Eo 59.9 d 0.1255 (69 px) Eo 100.2 d 0.1266 (69 px) Eo 140.0 d 0.1271 (71 px) Eo 162.1 d 0.0837 (69 px) Eo 180.3 d 0.1273 (73 px) Eo 220.0 d 0.1275 (71 px) Eo 259.8 d 0.1275 (71 px) Eo 300.1 d 0.1275 (70 px)
+   line at Eo 80: read 0.1261, Brown with Viana 0.1259, diff +0.0002
+   line at Eo 120: read 0.1264, Brown with Viana 0.1263, diff +0.0001
+   line at Eo 200: read 0.1266, Brown with Viana 0.1265, diff +0.0002
+Nf 100 markers: Eo 19.8 d 0.1092 (60 px) Eo 29.9 d 0.1146 (69 px) Eo 40.2 d 0.1165 (72 px) Eo 50.1 d 0.1183 (69 px) Eo 59.9 d 0.1190 (69 px) Eo 100.2 d 0.1199 (69 px) Eo 140.0 d 0.1202 (69 px) Eo 162.1 d 0.0788 (69 px) Eo 180.3 d 0.1204 (71 px) Eo 220.0 d 0.1206 (71 px) Eo 259.8 d 0.1206 (71 px) Eo 300.1 d 0.1206 (70 px)
+   line at Eo 80: read 0.1195, Brown with Viana 0.1193, diff +0.0002
+   line at Eo 120: read 0.1197, Brown with Viana 0.1196, diff +0.0001
+   line at Eo 200: read 0.1199, Brown with Viana 0.1197, diff +0.0002
+
+Eo 100, Nf 40: 0.1458
+Eo 100, Nf 60: 0.1351
+Eo 100, Nf 80: 0.1266
+Eo 100, Nf 100: 0.1199
+Nf 50: linear 0.1405 quadratic 0.1402 ratio-to-Brown 0.1401
+Brown with Viana at Nf 40 60 80 50: ['0.1450', '0.1344', '0.1261', '0.1394']
+ratios A&M/Brown at 40 60 80: [1.0051 1.0053 1.0038]

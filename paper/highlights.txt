@@ -1,0 +1,7 @@
+Highlights
+
+- OpenFOAM and Fluent on identical film-resolving meshes differ by up to 20.8% in Fr
+- A momentum predictor and isoAdvector bring OpenFOAM within 4.3% of two references
+- At Eo 100 every film carries the liquid of a developed laminar film to within 3.3%
+- Film thickness separates configurations that the grid uncertainty of Fr cannot
+- Settings that match the references at Eo 100 do not carry over to Eo 300 or Eo 20

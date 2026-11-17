@@ -1,0 +1,9 @@
+mules     1/40  Vmax 0.23263 at 0.945 (-3.83%) | circ min 0.89457 at 1.96 (-0.736%) | yc(3) 1.05582 (-2.330%) | gas drift +0.0001% | contour pieces at t=3: 1
+mules     1/80  Vmax 0.23021 at 0.952 (-4.83%) | circ min 0.89467 at 1.97 (-0.724%) | yc(3) 1.05213 (-2.671%) | gas drift -0.0000% | contour pieces at t=3: 1
+mules     1/160 Vmax 0.22561 at 0.993 (-6.73%) | circ min 0.89716 at 2.07 (-0.448%) | yc(3) 1.04583 (-3.254%) | gas drift +0.0000% | contour pieces at t=3: 1
+mulespred 1/40  Vmax 0.23542 at 0.929 (-2.68%) | circ min 0.89444 at 1.95 (-0.750%) | yc(3) 1.06191 (-1.766%) | gas drift +0.0001% | contour pieces at t=3: 1
+mulespred 1/80  Vmax 0.23592 at 0.918 (-2.47%) | circ min 0.89513 at 1.91 (-0.673%) | yc(3) 1.06517 (-1.465%) | gas drift -0.0000% | contour pieces at t=3: 1
+mulespred 1/160 Vmax 0.23563 at 0.924 (-2.59%) | circ min 0.89787 at 1.90 (-0.369%) | yc(3) 1.06920 (-1.091%) | gas drift +0.0000% | contour pieces at t=3: 1
+plic      1/40  Vmax 0.23578 at 0.919 (-2.53%) | circ min 0.88398 at 1.94 (-1.911%) | yc(3) 1.05896 (-2.039%) | gas drift +0.0000% | contour pieces at t=3: 1
+plic      1/80  Vmax 0.23597 at 0.908 (-2.45%) | circ min 0.88253 at 1.96 (-2.072%) | yc(3) 1.06092 (-1.858%) | gas drift +0.0000% | contour pieces at t=3: 1
+plic      1/160 Vmax 0.23618 at 0.886 (-2.37%) | circ min 0.88196 at 1.98 (-2.135%) | yc(3) 1.06319 (-1.648%) | gas drift +0.0000% | contour pieces at t=3: 1

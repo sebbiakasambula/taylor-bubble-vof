@@ -1,0 +1,9 @@
+Eo  80 Nf 40 line 0.2269  Viana code 0.2265  diff +0.0004
+Eo  80 Nf 60 line 0.2640  Viana code 0.2636  diff +0.0004
+Eo  80 Nf 80 line 0.2847  Viana code 0.2845  diff +0.0002
+Eo 120 Nf 40 line 0.2310  Viana code 0.2306  diff +0.0004
+Eo 120 Nf 60 line 0.2674  Viana code 0.2671  diff +0.0003
+Eo 120 Nf 80 line 0.2879  Viana code 0.2874  diff +0.0005
+Eo 200 Nf 40 line 0.2331  Viana code 0.2327  diff +0.0004
+Eo 200 Nf 60 line 0.2693  Viana code 0.2688  diff +0.0005
+Eo 200 Nf 80 line 0.2891  Viana code 0.2888  diff +0.0003

@@ -1,0 +1,1 @@
+T2_M2f_mompred_fine    snaps  43  max regions   5  max second 18.2884%  max outside largest 34.6349%  extent at ~1,2,3,5,8.4 s 3.66 4.08 4.43 2.74 2.77

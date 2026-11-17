@@ -1,0 +1,11 @@
+{
+  "title": "Solver configuration in VOF simulations of Taylor bubbles on film-resolving stretched meshes: scripts, solver and processed results",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Kasambula, Sebbi Adam",
+      "affiliation": "Independent researcher, Linköping, Sweden"
+    }
+  ],
+  "description": "Scripts that write and run the OpenFOAM cases, the modified interFoam solver, the analysis scripts, the processed results and the source of the paper."
+}

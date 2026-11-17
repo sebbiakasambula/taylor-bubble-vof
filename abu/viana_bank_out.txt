@@ -1,0 +1,27 @@
+
+T1 (Nf 1000, Eo 300), Viana at target 0.3384
+  Wallis 1969 (A-11)           70% glycerin       Nf   1254.0 (  +25%) Eo  173.3 (  -42%) Fr meas 0.3719 Viana 0.3387 meas/Viana  +9.8%
+  Weber 1986 (A-4) computed    60% sucrose        Nf    565.2 (  -43%) Eo  225.4 (  -25%) Fr meas 0.3420 Viana 0.3364 meas/Viana  +1.7%
+  Brown 1965 t1 (A-4) computed Marcol             Nf    598.4 (  -40%) Eo  200.5 (  -33%) Fr meas 0.3340 Viana 0.3366 meas/Viana  -0.8%
+  W&B fig2 (A-8)               58% sucrose        Nf    406.4 (  -59%) Eo  108.6 (  -64%) Fr meas 0.3319 Viana 0.3336 meas/Viana  -0.5%
+  W&B fig2 (A-8)               Tellus oil         Nf    247.2 (  -75%) Eo  188.7 (  -37%) Fr meas 0.3285 Viana 0.3283 meas/Viana  +0.1%
+  Wallis 1969 (A-11)           50% glycerin       Nf   4094.0 ( +309%) Eo  163.8 (  -45%) Fr meas 0.3750 Viana 0.3397 meas/Viana +10.4%
+  W&B fig2 (A-8)               Ethylene glycol    Nf    440.4 (  -56%) Eo   78.8 (  -74%) Fr meas 0.3343 Viana 0.3333 meas/Viana  +0.3%
+
+T2 (Nf 50, Eo 100), Viana at target 0.2504
+  W&B fig2 (A-9)               95% glycerol       Nf     50.3 (   +1%) Eo  128.4 (  +28%) Fr meas 0.2671 Viana 0.2527 meas/Viana  +5.7%
+  W&B fig2 (A-9)               90% glycerol       Nf     70.2 (  +40%) Eo   72.9 (  -27%) Fr meas 0.2832 Viana 0.2744 meas/Viana  +3.2%
+  W&B fig2 (A-9)               95% glycerol       Nf     33.3 (  -33%) Eo   73.9 (  -26%) Fr meas 0.2204 Viana 0.2061 meas/Viana  +7.0%
+  Wallis 1969 (A-11)           95% glycerin       Nf     35.1 (  -30%) Eo   68.0 (  -32%) Fr meas 0.1855 Viana 0.2103 meas/Viana -11.8%
+  W&B fig2 (A-9)               Voluta oil         Nf     26.6 (  -47%) Eo  112.1 (  +12%) Fr meas 0.2039 Viana 0.1871 meas/Viana  +9.0%
+  Wallis 1969 (A-11)           89% glycerin       Nf     80.9 (  +62%) Eo   60.2 (  -40%) Fr meas 0.2450 Viana 0.2810 meas/Viana -12.8%
+  W&B fig2 (A-9)               Voluta oil         Nf     41.0 (  -18%) Eo  199.2 (  +99%) Fr meas 0.2564 Viana 0.2351 meas/Viana  +9.0%
+
+T3 (Nf 500, Eo 20), Viana at target 0.2770
+  W&B fig2 (A-8)               40% sucrose        Nf    632.7 (  +27%) Eo   14.2 (  -29%) Fr meas 0.2414 Viana 0.2191 meas/Viana +10.2%
+  Wallis 1969 (A-11)           50% glycerin       Nf    777.8 (  +56%) Eo   17.9 (  -11%) Fr meas 0.3149 Viana 0.2619 meas/Viana +20.2%
+  Wallis 1969 (A-11)           70% glycerin       Nf    256.8 (  -49%) Eo   20.9 (   +5%) Fr meas 0.2968 Viana 0.2754 meas/Viana  +7.8%
+  Viana this work (A-5) computed 60% glycerin       Nf    273.0 (  -45%) Eo   26.7 (  +34%) Fr meas 0.2861 Viana 0.2975 meas/Viana  -3.8%
+  Zukoski fig3 (A-10)          Water-glycerin     Nf    238.8 (  -52%) Eo   14.9 (  -25%) Fr meas 0.2418 Viana 0.2243 meas/Viana  +7.8%
+  Zukoski fig3 (A-10)          Water-glycerin     Nf    233.4 (  -53%) Eo   25.5 (  +28%) Fr meas 0.3104 Viana 0.2908 meas/Viana  +6.8%
+  W&B fig2 (A-7)               Aqueous ethanol    Nf   1134.0 ( +127%) Eo   18.9 (   -5%) Fr meas 0.2754 Viana 0.2714 meas/Viana  +1.5%

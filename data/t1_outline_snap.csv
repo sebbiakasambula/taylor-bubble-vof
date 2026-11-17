@@ -1,0 +1,5 @@
+name,time_s,nose_x,loop_min_x_minus_nose,loop_max_r
+OpenFOAM stretched,19.7004,11.3199,-3.8733,0.4380
+OpenFOAM square,19.7004,11.5606,-3.4982,0.4364
+Fluent stretched,19.6629,11.5012,-3.5664,0.4374
+Fluent square,19.1868,11.3556,-3.7010,0.4376
